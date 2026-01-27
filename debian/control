@@ -1,0 +1,15 @@
+Source: cleardocker
+Section: admin
+Priority: optional
+Maintainer: TDamiao <tdamiao@example.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.0
+Homepage: https://github.com/tdamiao/cleardocker
+
+Package: cleardocker
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, lsof, deborphan, docker.io
+Description: System cleanup script for Debian/Ubuntu
+ A complete cleanup script for Debian/Ubuntu systems that cleans APT caches,
+ old kernels, systemd logs, temporary files, orphan libraries, and Docker
+ resources. It also self-schedules to run weekly via cron.
