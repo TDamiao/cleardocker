@@ -1,7 +1,7 @@
 Source: cleardocker
 Section: admin
 Priority: optional
-Maintainer: TDamiao <tdamiao@example.com>
+Maintainer: Thiago Damião <thiagodamiaosoares@gmail.com>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.5.0
 Homepage: https://github.com/tdamiao/cleardocker
