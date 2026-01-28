@@ -1,0 +1,19 @@
+Package: cleardocker
+Version: 1.0.0-1ppa1~jammy2
+Architecture: all
+Maintainer: Thiago Damião <thiagodamiaosoares@gmail.com>
+Installed-Size: 14
+Depends: lsof, deborphan, docker.io
+Filename: ./cleardocker_1.0.0-1ppa1~jammy2_all.deb
+Size: 3828
+MD5sum: c2a677e8ca0751ac3d6dd17c09ad2aa8
+SHA1: 911627b6b395b110c7f2ebeb865b338cbcec4869
+SHA256: 31e06887f45e3c61aed95e725656a6243193ba38b21f3d3f986d5b272e026f00
+Section: admin
+Priority: optional
+Homepage: https://github.com/tdamiao/cleardocker
+Description: System cleanup script for Debian/Ubuntu
+ A complete cleanup script for Debian/Ubuntu systems that cleans APT caches,
+ old kernels, systemd logs, temporary files, orphan libraries, and Docker
+ resources. It also self-schedules to run weekly via cron.
+
