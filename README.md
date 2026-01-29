@@ -1,6 +1,6 @@
 # cleardocker
 
-[![Debian Package](https://img.shields.io/badge/debian-package-blue)](https://tdamiao.github.io/cleardocker/apt)
+[![Debian Package](https://img.shields.io/badge/debian-package-blue)](https://tdamiao.github.io/cleardocker/apt) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-yellow)](https://www.buymeacoffee.com/tdamiao)
 
 `cleardocker` is a comprehensive cleanup script for Debian-based systems (like Debian, Ubuntu, etc.) designed to free up significant disk space by removing unnecessary files, packages, and Docker resources.
 
@@ -114,5 +114,5 @@ The resulting `.deb` file will be created in the parent directory.
 
 This project is licensed under the MIT License.
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-yellow)](https://www.buymeacoffee.com/tdamiao)
+
 
