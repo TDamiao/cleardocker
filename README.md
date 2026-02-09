@@ -1,5 +1,13 @@
 # cleardocker
 
+<div align="center">
+  <br />
+  <p>
+    <a href="https://buymeacoffee.com/tdamiao/limpeza-fcil-de-docker-dia-dia-de-desenvolvimento"><img src= "https://i.imgur.com/xS3qtf7.png" alt="Clear Docker" /></a>
+  </p>
+</div>
+
+
 [![Debian Package](https://img.shields.io/badge/debian-package-blue)](https://tdamiao.github.io/cleardocker/apt) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-yellow)](https://www.buymeacoffee.com/tdamiao)
 
 `cleardocker` is a comprehensive cleanup script for Debian-based systems (like Debian, Ubuntu, etc.) designed to free up significant disk space by removing unnecessary files, packages, and Docker resources.
